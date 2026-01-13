@@ -14,7 +14,7 @@
 
 - ❤️ Favorite frontend technology: **Vue.js**, while continuing professional work with **React**
 
-- 👯 Open to collaboration on **Administración Marquesada** and backend/frontend projects
+- 👯 Open to collaboration on **Administración Marquesada**, with previous experience collaborating on projects such as **SensingLabo (DENSO)** and **municipal backoffice systems for income management in Querétaro**
 
 - 💬 Ask me about **Vue, React, Spring Boot, REST APIs**
 
